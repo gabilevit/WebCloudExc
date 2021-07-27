@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/28d01ca1-59ac-4bd9-b5ad-a159926ee74d/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/HelloWorldFromServer",
+    "appService.deploySubpath": "."
+}
